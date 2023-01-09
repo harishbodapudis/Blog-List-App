@@ -16,7 +16,8 @@
 }
 .published-date {
   color: #9aa5b1;
-  font-weight: bold;
+  font-weight: 600;
+  font-size: 18px;
 }
 .description {
   color: #9aa5b1;
